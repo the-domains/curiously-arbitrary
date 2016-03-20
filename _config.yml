@@ -1,0 +1,14 @@
+layout_spectrum: 0.9265233
+typography_spectrum: 0.5232975
+color:
+  saturation: 0.5555556
+  brandStrength: 0.215756
+  lightness: 0.6827957
+  brandColors:
+    - '#4B381F'
+    - '#F2F3F0'
+    - '#9A7853'
+    - '#DEB592'
+    - '#1F170D'
+  rhythmicContrast: 0.9032258
+name: Curiously Arbitrary
